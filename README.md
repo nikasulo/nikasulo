@@ -6,7 +6,7 @@ Software Engineer
 
 I’m a Chemical Engineer turned Software Engineer who is passionate about improving people’s lives through software. I love building tools that empower people to take control of their time, relationships, businesses, and money, and I have had great success doing that across many industries. I’m currently working on helping teams move faster, safely, at Block.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Dublin, Ireland
 * 🖥️  See my portfolio at [My Portfolio](http://oluwadamilareolusakin.com)
 * ✉️  You can contact me at [oluwadamilare@oluwadamilareolusakin.com](mailto:oluwadamilare@oluwadamilareolusakin.com)
 * 🧠  I'm learning AWS Services, Golang and Elixir
