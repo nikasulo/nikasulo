@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I’m a Chemical Engineer turned Software Engineer who is passionate about improving people’s lives through software. I love building tools that empower people to take control of their time, relationships, businesses, and money, and I have had great success doing that across many industries. I’m currently working on helping teams move faster, safely, at Block.
+I’m a Chemical Engineer turned Software Engineer who is passionate about improving people’s lives through software. I love building tools that empower people to take control of their time, relationships, businesses, and money, and I have had great success doing that across many industries. I’m currently working on helping teams move faster, and safely, at Block.
 
-* 🌍  I'm based in Dublin, Ireland
+* 🌍  Live off the grid
 * 🖥️  See my portfolio at [My Portfolio](http://oluwadamilareolusakin.com)
 * ✉️  You can contact me at [oluwadamilare@oluwadamilareolusakin.com](mailto:oluwadamilare@oluwadamilareolusakin.com)
-* 🧠  I'm learning AWS Services, Golang and Elixir
+* 🧠  I'm learning AWS Services, Golang, and Elixir
 * 🤝  I'm open to collaborating on Productivity and educational tools
 
 <a href="https://www.twitter.com/nervousrubyist" target="_blank" rel="noreferrer"><img
