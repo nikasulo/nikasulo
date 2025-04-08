@@ -11,10 +11,6 @@ I’m a Chemical Engineer turned Software Engineer who is passionate about impro
 * 🧠  I'm learning more Ruby, AWS Services, Golang, and Elixir
 * 🤝  I'm open to collaborating on Productivity and educational tools
 
-<a href="https://www.twitter.com/nervousrubyist" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/nervousrubyist?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
