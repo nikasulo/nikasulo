@@ -7,7 +7,6 @@ Software Engineer
 I’m a Chemical Engineer turned Software Engineer who is passionate about improving people’s lives through software. I love building tools that empower people to take control of their time, relationships, businesses, and money, and I have had great success doing that across many industries.
 
 * 🌍  Live off the grid
-* ✉️  You can contact me at [oluwadamilare@oluwadamilareolusakin.com](mailto:oluwadamilare@oluwadamilareolusakin.com)
 * 🧠  I'm learning more Ruby, AWS Services, Golang, and Elixir
 * 🤝  I'm open to collaborating on Productivity and educational tools
 
